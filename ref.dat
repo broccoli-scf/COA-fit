@@ -1,0 +1,115 @@
+114
+CH4 IP 1 -23.38779284 1.0
+CH4 IP 2 -14.40016228 1.0
+CH4 IP 3 -14.40016228 1.0
+CH4 IP 4 -14.40016228 1.0
+CH4 AT 2 C 1 H 4 420.43 5.0
+C2H2 IP 6 -11.52493565 1.0
+C2H2 IP 5 -11.52493565 1.0
+C2H2 IP 4 -17.22392875 1.0
+C2H2 IP 3 -19.13014201 1.0
+C2H2 IP 2 -24.39790213 1.0
+C2H2 AT 2 C 2 H 2 405.53 5.0
+C2H4 IP 7 -10.67543249 1.0
+C2H4 IP 6 -13.12733841 1.0
+C2H4 IP 5 -14.90467669 1.0
+C2H4 IP 4 -16.32186832 1.0
+C2H4 IP 3 -19.60227885 1.0
+C2H4 IP 2 -24.45080037 1.0
+C2H4 AT 2 C 2 H 4 563.69 5.0
+C2H6 IP 8 -12.71801752 1.0
+C2H6 IP 7 -12.71801784 1.0
+C2H6 IP 6 -13.13105308 1.0
+C2H6 IP 5 -15.45055854 1.0
+C2H6 IP 4 -15.45055891 1.0
+C2H6 IP 3 -20.93560603 1.0
+C2H6 IP 2 -24.62879184 1.0
+C2H6 AT 2 C 2 H 6 712.98 5.0
+cyclobutane IP 15 -11.07603214 1.0
+cyclobutane IP 14 -11.07603214 1.0
+cyclobutane IP 13 -11.66748078 1.0
+cyclobutane IP 12 -12.2687291 1.0
+cyclobutane IP 11 -13.6287478 1.0
+cyclobutane IP 10 -13.6287478 1.0
+cyclobutane IP 9 -16.15874337 1.0
+cyclobutane IP 8 -16.39037067 1.0
+cyclobutane IP 7 -18.67235112 1.0
+cyclobutane IP 6 -21.53742194 1.0
+cyclobutane IP 5 -21.53742194 1.0
+cyclobutane AT 2 C 4 H 8 1149.37 5.0
+cyclobutene IP 14 -9.65949891 1.0
+cyclobutene IP 13 -11.51051754 1.0
+cyclobutene IP 12 -11.77770409 1.0
+cyclobutene IP 11 -12.99546145 1.0
+cyclobutene IP 10 -13.28783427 1.0
+cyclobutene IP 9 -15.83071833 1.0
+cyclobutene IP 8 -16.79675158 1.0
+cyclobutene IP 7 -17.50315139 1.0
+cyclobutene AT 2 C 4 H 6 1001.97 5.0
+cyclopropane IP 11 -10.89171717 1.0
+cyclopropane IP 10 -10.89174489 1.0
+cyclopropane IP 9 -13.20078596 1.0
+cyclopropane IP 8 -13.20083465 1.0
+cyclopropane IP 7 -15.92566357 1.0
+cyclopropane IP 6 -16.99572382 1.0
+cyclopropane IP 5 -20.0918484 1.0
+cyclopropane IP 4 -20.09188102 1.0
+cyclopropane AT 2 C 3 H 6 853.68 5.0
+propane IP 12 -12.12469182 1.0
+propane IP 11 -12.14068958 1.0
+propane IP 10 -12.23962973 1.0
+propane IP 9 -13.71979039 1.0
+propane IP 8 -14.12527624 1.0
+propane IP 7 -15.33424071 1.0
+propane IP 6 -15.98884084 1.0
+propane IP 5 -19.86355492 1.0
+propane IP 4 -22.54684756 1.0
+propane IP 3 -25.1748921 1.0
+propane AT 2 C 3 H 8 1007.14 5.0
+trans2butene IP 15 -9.29660802 1.0
+trans2butene IP 14 -12.0520583 1.0
+trans2butene IP 13 -12.7503823 1.0
+trans2butene IP 12 -13.43029208 1.0
+trans2butene IP 11 -14.26575668 1.0
+trans2butene IP 10 -14.6972795 1.0
+trans2butene IP 9 -15.12375074 1.0
+trans2butene IP 8 -15.29348995 1.0
+trans2butene IP 7 -18.26595139 1.0
+trans2butene IP 6 -21.32039483 1.0
+trans2butene IP 5 -23.53007439 1.0
+transbutadiene IP 14 -9.15007108 1.0
+transbutadiene IP 13 -11.83160618 1.0
+transbutadiene IP 12 -12.4945202 1.0
+transbutadiene IP 11 -13.77005452 1.0
+transbutadiene IP 10 -13.83503587 1.0
+transbutadiene IP 9 -15.8156317 1.0
+transbutadiene IP 8 -16.01038012 1.0
+transbutadiene IP 7 -18.60114301 1.0
+transbutadiene IP 6 -19.91860346 1.0
+transbutadiene AT 2 C 4 H 6 1012.73 5.0
+benzene IP 20 -9.32106308 1.0
+benzene IP 19 -9.32110186 1.0 
+benzene IP 18 -12.18137827 1.0
+benzene IP 17 -12.18142466 1.0
+benzene IP 16 -12.65689091 1.0
+benzene IP 15 -14.44646934 1.0
+benzene IP 14 -14.44656363 1.0
+benzene IP 13 -14.88040447 1.0
+benzene IP 12 -15.8616229 1.0
+benzene IP 11 -17.41164042 1.0
+benzene IP 10 -19.63771514 1.0
+benzene IP 9 -19.63775956 1.0
+benzene AT 2 C 6 H 6 1368.10 5.0
+butane IP 16 -11.55902671 1.0
+butane IP 15 -11.87822782 1.0
+butane IP 14 -11.94872775 1.0
+butane IP 13 -12.73968046 1.0
+butane IP 12 -13.17507042 1.0
+butane IP 11 -14.5627093 1.0
+butane IP 10 -14.65045141 1.0
+butane IP 9 -14.9169368 1.0
+butane IP 8 -16.23798385 1.0
+butane IP 7 -19.49932904 1.0
+butane IP 6 -21.05753147 1.0
+butane IP 5 -23.61133167 1.0
+butane IP 4 -25.40601949 1.0
